@@ -16,17 +16,18 @@ Your task is to write a very simple restaurants list app.
 - When a restaurant is selected from the list, it will render a restaurant detail view displaying a few more details about that restaurant
 - Enable CRUD actions.
 - Display a spinner or placeholder component while the API request is ongoing.
-- Make it look decent. Reproduce the figma design as accurate and responsive as possible, but it does not necessarily have to be perfect. Add images for each device.
+- Make it look decent. Reproduce the figma design as accurate as possible, but it does not necessarily have to be perfect. Add images for each device.
 - Retrieve user favourite restaurants and enable the ability of mark/unmark a restaurant as favourite. (That path should be protected).
 
 4. Push the code to a public github repo with a README.md that explains how to run API & Frontend app.
 
 ## Extra information
-Figma link: 
+Figma link: https://www.figma.com/file/LuwjRZZb3ms0MeAmu7gZch/Tailor-Prueba-t%C3%A9cnica-Junior?type=design&node-id=2%3A15&mode=design&t=mYbsPNUJscBcb7yN-1
 
 ## Bonus points
 1. Deploy the app.
 2. JWT Authentication.
 3. Tailwind css implementation
-4. TypeScript in the bakend 😍
-5. Write realistic unit/end-to-end tests.
+4. TypeScript 😍
+5. Responsive design
+6. Write realistic unit/end-to-end tests.
