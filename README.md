@@ -14,10 +14,10 @@ Your task is to write a very simple restaurants list app.
 - Use Context API for state management and Axios (or similar library) for fetching data from the API
 - Display an initial list with all restaurants.
 - When a restaurant is selected from the list, it will render a restaurant detail view displaying a few more details about that restaurant
-- Enable CRUD actions.
+- Enable CRUD actions for restaurants, and develop the corresponding pages.
+- Enable CRUD actions for comments.
 - Display a spinner or placeholder component while the API request is ongoing.
 - Make it look decent. Reproduce the figma design as accurate as possible, but it does not necessarily have to be perfect. Add images for each device.
-- Retrieve user favourite restaurants and enable the ability of mark/unmark a restaurant as favourite. (That path should be protected).
 
 4. Push the code to a public github repo with a README.md that explains how to run API & Frontend app.
 
